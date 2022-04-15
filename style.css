@@ -207,6 +207,7 @@ section {
 section .title {
   position: relative;
   text-align: center;
+  color: white;
   font-size: 40px;
   font-weight: 500;
   margin-bottom: 60px;
